@@ -18,6 +18,7 @@ selenium-debug.log
 *.njsproj
 *.sln
 *.local
+*.history
 .history
 
 package-lock.json
